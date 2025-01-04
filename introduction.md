@@ -4,4 +4,4 @@ permalink: "/About Me/"
 layout: page
 ---
 
-**Vimala Bathineni** is an former Assistant Professor/Scientist in Horticulture back in India. Actively seeking for a Ph.D or Researcher in Denmark.
+**Vimala Bathineni** is a former Assistant Professor/Scientist in Horticulture from India, currently seeking a Ph.D. or Researcher position in Denmark.

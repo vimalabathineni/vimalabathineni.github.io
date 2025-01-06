@@ -37,7 +37,7 @@ layout: page
 
 **[J12]** B. Manjuvani and **B.Vimala**, “Hydrogels in horticulture,” Progressive Research–AnInternational Journal,” vol. 1, no. special-1,pp. 1068-1072, 2016. 
 
-**[J11]** **V. C. Gogineni**, S. P. Talebi, S. Werner and D. P. Mandic, "Fractional-order correntropy adaptive filters for distributed processing of $\alpha$-stable signals," *IEEE Signal Process. Lett.*, vol. 27, pp. 1884-1888, 2020. [Link to paper](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2687491/SPL2020_Vinay.pdf?sequence=2)
+**[J11]** B. Vimala, M. Pratap, R. Chandrsekhar and A. S. Sankar, “Influence of priming on seed quality of China aster (Callistephus chinensis L. Nees),” International Journal of Tropical Agriculture, vol.32 no.1-2, pp. 265-268, June. 2014 . [Link to paper](https://www.cabidigitallibrary.org/doi/pdf/10.5555/20153318061)
 
 **[J10]** **V. C. Gogineni**, S. P. Talebi, S. Werner and D. P. Mandic, "Fractional-order correntropy filters for tracking dynamic systems in $\alpha$-stable environments," *IEEE Trans. Circuits Syst. II: Express Briefs*, vol. 67, no. 12, pp. 3557-3561, 2020. [Link to paper](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2655273/TCAS-FINAL-VERSION-2020.pdf?sequence=1)
 

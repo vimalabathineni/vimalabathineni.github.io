@@ -21,7 +21,7 @@ layout: page
 
 **[J20]** B Srinivasulu,**B.Vimala** , P Deepthi, K Subramanyam, Shaik Tahir Ibrahim, "Evaluation of pomegranate varieties for growth and fruit quality attributes under Andhra Pradesh condition," *Indian Journal of Arid Horticulture.*,Vol.2 Issue 1&2 pp.18-20, 2020. [Link to paper](https://acspublisher.com/journals/index.php/ijah/article/view/13554)
 
-**[J19]** **V. C. Gogineni**, S. Ramesh, S. V. Mula and S. Werner, "Algorithm and architecture design of random Fourier features-based kernel adaptive filters," *IEEE Trans. Circuits. Syst. I: Regular Papers*, vol. 70, no. 2, pp. 833-845, 2023. [Link to paper](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/3139606/VLSI_Architecture_of_RFF_based_Kernel_LMS.pdf?sequence=1&isAllowed=y)
+**[J19]** K Umamaheswara Rao, K T Venkata Ramana, K M Yuva Raj,**B.Vimala** and B Nagendra Reddy , "Growing of Intercrops in Cashew Based Cropping System under Coastal Sandy Soils of Andhra Pradesh," *The Andhra Agric. J, vol. 67, no. 2, pp. 9-12, 2020. [Link to paper](https://aaj.net.in/wp-content/uploads/2023/08/67-2-001.pdf)
 
 **[J18]** **V. C. Gogineni**, S. Werner, Y. Huang, and A. Kuh, "Communication-efficient online federated learning strategies for kernel regression," *IEEE Internet Things J.*, vol. 10, no. 5, pp. 4531-4544, 2023. [Link to paper](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/3047362/IoTJournal_FL.pdf?sequence=1)
 

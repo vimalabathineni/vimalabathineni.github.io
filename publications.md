@@ -27,8 +27,7 @@ layout: page
 
 **[J17]** K Umamaheswara Rao, **B.Vimala** and B.Nagendra Reddy, “Andhra pradesh emerging as a New cashew Hub”, Cashew Week, A initiative of Cashewinfo.com 18(34): 22-25, 2017 . 
 
-**[J16]** G. S. R. E. Langberg, J. Nygård, **V. C. Gogineni**, M. Nygård, M. Grasmair and V. Naumova, "Toward a data-driven system for personalized cervical cancer risk stratification," *Sci. Rep.*, vol. 12, no. 12083, 2022. [Link to paper](https://www.nature.com/articles/s41598-022-16361-6)
-
+**[J16]** K Umamaheswara Rao, **B.Vimala** and B.Nagendra Reddy, "Status of cashew research and development in Andhra Pradesh, Technical bulletin pp.1-8, 2018. [[Link to paper](https://cashew.icar.gov.in/aicrpc/wp-content/uploads/2019/03/Status-of-Cashew-Research-.pdf)
 **[J15]** A. Daney, **V. C. Gogineni**, S. V. Mula and S. Werner, "Novel VLSI architecture for fractional-order correntropy adaptive filtering algorithm," *IEEE Trans. VLSI Syst.*, vol. 30, no. 7, pp. 893-904, 2022. [Link to paper](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/3046720/FoCLMS_VLSI-11.pdf?sequence=1&isAllowed=y)
 
 **[J14]** V. R. M. Elias, **V. C. Gogineni**, W. A. Martins and S. Werner, "Kernel regression over graphs using random Fourier features," *IEEE Trans. Signal Process.*, vol. 70, pp. 936-949, 2022. [Link to paper](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2978501/IEEE-TSP-KRG-2022%5B1%5D.pdf?sequence=1)

@@ -31,11 +31,11 @@ layout: page
 
 **[J15]** **B.Vimala**, M. Pratap, and A. S. Sankar, “Effect of invigoration treatments onbiochemical changes on stored seed of China aster (Callistephus chinensis L. Nees),” The Andhra Agricultural Journal, vol. 63, no. 1, pp. 177-181, 2016. [Link to paper](https://aaj.net.in/wp-content/uploads/2024/05/2016_article_631-37.pdf)
 
-**[J14]** V. R. M. Elias, **V. C. Gogineni**, W. A. Martins and S. Werner, "Kernel regression over graphs using random Fourier features," *IEEE Trans. Signal Process.*, vol. 70, pp. 936-949, 2022. [Link to paper](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2978501/IEEE-TSP-KRG-2022%5B1%5D.pdf?sequence=1)
+**[J14]** G. V. Gopal,**B.Vimala** and A. Girwani, “Performance of lawn grasses under differentshaded conditions,” Progressive Research–An International Journal, vol. 1, no. special-1,pp. 271-273, 2016.
 
-**[J13]** **V. C. Gogineni**, S. P. Talebi and S. Werner, "Performance of clustered multitask diffusion LMS suffering from inter-node communication delays," *IEEE Trans. Circuits Syst. II: Express Briefs*, vol. 68, no. 7, pp. 2695-2699, 2021. [Link to paper](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2984234/vinay-tcasII-multitask-2021.pdf?sequence=1)
+**[J13]** K. Latha,**B.Vimala** and M. Pratap, “Effect of postharvest chemical dipping and packaging on shelf life of chrysanthemum loose flowers stored under ambient conditions,” Progressive Research–An International Journal, vol. 1, no. special-1, pp.302-304,2016.
 
-**[J12]** V. R. M. Elias, **V. C. Gogineni**, W. A. Martins and S. Werner, "Adaptive graph filters in reproducing kernel Hilbert spaces: Design and performance analysis," *IEEE Trans. Signal Inf. Process. Networks*, vol. 7, pp. 62-74, 2021. [Link to paper](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2772718/Elias.pdf?sequence=4&isAllowed=y)
+**[J12]** B. Manjuvani and **B.Vimala**, “Hydrogels in horticulture,” Progressive Research–AnInternational Journal,” vol. 1, no. special-1,pp. 1068-1072, 2016. 
 
 **[J11]** **V. C. Gogineni**, S. P. Talebi, S. Werner and D. P. Mandic, "Fractional-order correntropy adaptive filters for distributed processing of $\alpha$-stable signals," *IEEE Signal Process. Lett.*, vol. 27, pp. 1884-1888, 2020. [Link to paper](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2687491/SPL2020_Vinay.pdf?sequence=2)
 

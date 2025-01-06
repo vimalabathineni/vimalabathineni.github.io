@@ -11,7 +11,7 @@ layout: page
 
 **[J26]**  B. Nagendra Reddy , K. Umamaheswara Rao ,**B.Vimala**, K. Dhanumjaya Rao , J Dilip Babu, RVSK Reddy , Mohana, G.S. and Adiga J.D, "Field Efficacy of Insecticides for Management of Lepidopteran Pests in Cashew," *Uttar Pradesh Journal of Zoology*, vol. 45, no. 18, pp. 40-46, 2024. [Link to paper](https://mbimph.com/index.php/UPJOZ/article/download/4421/4766/7248_cf_chl_tk=QHY4Khouhxae6P8nrd1DiGTTKIXBqP0O4fa6GOijEQI-1736198105-1.0.1.1-RiG2QIZB8ChZcfBrBDuPWot876el01zlz8Py7Jg0J3o)
 
-**[J25]** TA Pallavi, B Srinivasulu, **B.Vimala**, VNP Siva Rama Krishna and VV Padmaja, "Effect of pre-harvest sprays on biochemical parameters in red pulp tamarind variety Anantha Rudhira," *The Pharma Innovation Journal *, Vol. 12, Issue.12, pp. 3668-3671, 2023. Link to paper](https://www.thepharmajournal.com/archives/2023/vol12issue12/PartAS/12-12-497-889.pdf)
+**[J25]** TA Pallavi, B Srinivasulu, **B.Vimala**, VNP Siva Rama Krishna and VV Padmaja, "Effect of pre-harvest sprays on biochemical parameters in red pulp tamarind variety Anantha Rudhira," *The Pharma Innovation Journal *, Vol. 12, Issue.12, pp. 3668-3671, 2023. [Link to paper](https://www.thepharmajournal.com/archives/2023/vol12issue12/PartAS/12-12-497-889.pdf)
 
 **[J24]** **B.Vimala**, and P.Deepthi, "Case study: The success of jamun(syzigium cumin L ) in the drought prone district of Andhra Pradesh," *Multilogic In Science*, Vol. 13,Issue. 46 pp. 648-649, 2023. [Link to paper](https://ycjournal.net/Multilogicinscience/ResearchDocuments/CASESTUDYT638159345733531624.pdf)
 

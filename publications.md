@@ -23,7 +23,7 @@ layout: page
 
 **[J19]** K Umamaheswara Rao, K T Venkata Ramana, K M Yuva Raj,**B.Vimala** and B Nagendra Reddy , "Growing of Intercrops in Cashew Based Cropping System under Coastal Sandy Soils of Andhra Pradesh," *The Andhra Agric. J, vol. 67, no. 2, pp. 9-12, 2020. [Link to paper](https://aaj.net.in/wp-content/uploads/2023/08/67-2-001.pdf)
 
-**[J18]** K Srinivas, V Maruthi, DBV Ramana, **B.Vimala**, KC Nataraja, K Sammi Reddy, "Biomass, biochemical composition and decomposition behavior of roots and shoots of major rainfed crops," *ndian Journal of Dryland Agricultural Research and Development*, vol. 35, no. 1, pp. 20-26, 2020. [Link to paper](https://krishi.icar.gov.in/jspui/bitstream/123456789/69076/1/Plant%20Roots%20IJDARD.pdf)
+**[J18]** K Srinivas, V Maruthi, DBV Ramana, **B.Vimala**, KC Nataraja, K Sammi Reddy, "Biomass, biochemical composition and decomposition behavior of roots and shoots of major rainfed crops," *Indian Journal of Dryland Agricultural Research and Development*, vol. 35, no. 1, pp. 20-26, 2020. [Link to paper](https://krishi.icar.gov.in/jspui/bitstream/123456789/69076/1/Plant%20Roots%20IJDARD.pdf)
 
 **[J17]** K Umamaheswara Rao, **B.Vimala** and B.Nagendra Reddy, “Andhra pradesh emerging as a New cashew Hub”, Cashew Week, A initiative of Cashewinfo.com 18(34): 22-25, 2017 . 
 

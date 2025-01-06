@@ -15,10 +15,9 @@ layout: page
 
 **[J24]** **B.Vimala**, and P.Deepthi, "Case study: The success of jamun(syzigium cumin L ) in the drought prone district of Andhra Pradesh," *Multilogic In Science*, Vol. 13,Issue. 46 pp. 648-649, 2023. [[Link to paper]](https://ycjournal.net/Multilogicinscience/ResearchDocuments/CASESTUDYT638159345733531624.pdf)
 
-
 **[J22]** **B.Vimala**, and P.Deepthi, "Aonla: A Reliable source of income for farmers in the ananthapuramu district," *IAgriGate- An International Multidisciplinary e-Magazine*, vol. 3, Issue 12 pp. 262-266, 2023. [[Link to paper](https://www.agrigatemagazine.com/_files/ugd/b546c0_ac65b20a0540481fb6455dd53aa5a67d.pdf)]
 
-**[J21]** **V. C. Gogineni**, A. Moradi, N. K. D. Venkategowda and S. Werner, "Communication-efficient and privacy-aware distributed learning," *IEEE Trans. Signal and Info. Process.*, vol. 9, pp. 705-720, 2023. [Link to paper](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/3099310/TSIPN-Vinay-2023.pdf?sequence=1&isAllowed=y)
+**[J21]** P Deepthi, **B.Vimala** B Srinivasulu, K Subramanyam, Shaik Tahir "Evaluation of pomegranate varieties under conditions of Andhra Pradesh," *The Pharma Innovation Journal*, vol. 11 (5), pp.536-538, 2022. [[Link to paper](https://www.thepharmajournal.com/archives/2022/vol11issue5S/PartH/S-11-4-295-736.pdf)
 
 **[J20]** F. Gauthier, **V. C. Gogineni**, S. Werner, Y. Huang and A. Kuh, "Asynchronous online federated learning with reduced communication requirements," *IEEE Internet Things J.*, 2023. [Link to paper](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/3097065/PAO_Fed-AAM.pdf?sequence=1&isAllowed=y)
 

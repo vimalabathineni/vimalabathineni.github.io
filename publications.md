@@ -24,7 +24,8 @@ layout: page
 **[J19]** K Umamaheswara Rao, K T Venkata Ramana, K M Yuva Raj,**B.Vimala** and B Nagendra Reddy , "Growing of Intercrops in Cashew Based Cropping System under Coastal Sandy Soils of Andhra Pradesh," *The Andhra Agric. J, vol. 67, no. 2, pp. 9-12, 2020. [Link to paper](https://aaj.net.in/wp-content/uploads/2023/08/67-2-001.pdf)
 
 **[J18]** K Srinivas, V Maruthi, DBV Ramana, **B.Vimala**, KC Nataraja, K Sammi Reddy, "Biomass, biochemical composition and decomposition behavior of roots and shoots of major rainfed crops," *ndian Journal of Dryland Agricultural Research and Development*, vol. 35, no. 1, pp. 20-26, 2020. [Link to paper](https://krishi.icar.gov.in/jspui/bitstream/123456789/69076/1/Plant%20Roots%20IJDARD.pdf)
-**[J17]** **V. C. Gogineni**, S. Werner, F. Gauthier, Y. Huang and A. Kuh, "Personalized online federated learning for IoT/CPS: Challenges and future directions," *IEEE Internet Things Mag.*, vol. 5, no. 4, pp. 78-84, 2022. [Link to paper](https://par.nsf.gov/servlets/purl/10444296)
+
+**[J17]** K Umamaheswara Rao, **B.Vimala** and B.Nagendra Reddy, “Andhra pradesh emerging as a New cashew Hub”, Cashew Week, A initiative of Cashewinfo.com 18(34): 22-25, 2017 . 
 
 **[J16]** G. S. R. E. Langberg, J. Nygård, **V. C. Gogineni**, M. Nygård, M. Grasmair and V. Naumova, "Toward a data-driven system for personalized cervical cancer risk stratification," *Sci. Rep.*, vol. 12, no. 12083, 2022. [Link to paper](https://www.nature.com/articles/s41598-022-16361-6)
 

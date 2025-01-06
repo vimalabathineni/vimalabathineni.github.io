@@ -28,7 +28,8 @@ layout: page
 **[J17]** K Umamaheswara Rao, **B.Vimala** and B.Nagendra Reddy, “Andhra pradesh emerging as a New cashew Hub”, Cashew Week, A initiative of Cashewinfo.com 18(34): 22-25, 2017 . 
 
 **[J16]** K Umamaheswara Rao, **B.Vimala** and B.Nagendra Reddy, "Status of cashew research and development in Andhra Pradesh, Technical bulletin pp.1-8, 2018. [[Link to paper](https://cashew.icar.gov.in/aicrpc/wp-content/uploads/2019/03/Status-of-Cashew-Research-.pdf)
-**[J15]** A. Daney, **V. C. Gogineni**, S. V. Mula and S. Werner, "Novel VLSI architecture for fractional-order correntropy adaptive filtering algorithm," *IEEE Trans. VLSI Syst.*, vol. 30, no. 7, pp. 893-904, 2022. [Link to paper](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/3046720/FoCLMS_VLSI-11.pdf?sequence=1&isAllowed=y)
+
+**[J15]** **B.Vimala**, M. Pratap, and A. S. Sankar, “Effect of invigoration treatments onbiochemical changes on stored seed of China aster (Callistephus chinensis L. Nees),” The Andhra Agricultural Journal, vol. 63, no. 1, pp. 177-181, 2016. [Link to paper](https://aaj.net.in/wp-content/uploads/2024/05/2016_article_631-37.pdf)
 
 **[J14]** V. R. M. Elias, **V. C. Gogineni**, W. A. Martins and S. Werner, "Kernel regression over graphs using random Fourier features," *IEEE Trans. Signal Process.*, vol. 70, pp. 936-949, 2022. [Link to paper](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2978501/IEEE-TSP-KRG-2022%5B1%5D.pdf?sequence=1)
 

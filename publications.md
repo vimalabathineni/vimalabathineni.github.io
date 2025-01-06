@@ -7,16 +7,15 @@ layout: page
 
 **[J28]** G.Thrikala Madhavi, C.Madhumathi, B.Tanuja Priya, B.Srinivasulu, **B.Vimala**, and M.Jayaprada, "Unravelling quantitative phenotypic variation of custard apple selections from southwestern parts of Andhra Pradesh, India," *Plant Archives.*, Vol. 24,Issue.2 pp. 591-594,2024. [Link to paper](https://www.plantarchives.org/article/83.pdf)
 
-
 **[J27]**  G.Thrikala Madhavi, C.Madhumathi, B.Tanuja Priya, B.Srinivasulu, **B.Vimala**, and M.Jayaprada, "Biochemical characterisation of custard apple selections," *International Journal of Advanced Biochemistry Research*,Vol.8, Issue.6, pp.271-274 2024. [Link to paper](https://www.biochemjournal.com/archives/2024/vol8issue6/PartD/8-6-59-198.pdf)
 
 **[J26]**  B. Nagendra Reddy , K. Umamaheswara Rao ,**B.Vimala**, K. Dhanumjaya Rao , J Dilip Babu, RVSK Reddy , Mohana, G.S. and Adiga J.D, "Field Efficacy of Insecticides for Management of Lepidopteran Pests in Cashew," *Uttar Pradesh Journal of Zoology*, vol. 45, no. 18, pp. 40-46, 2024. [Link to paper](https://mbimph.com/index.php/UPJOZ/article/download/4421/4766/7248_cf_chl_tk=QHY4Khouhxae6P8nrd1DiGTTKIXBqP0O4fa6GOijEQI-1736198105-1.0.1.1-RiG2QIZB8ChZcfBrBDuPWot876el01zlz8Py7Jg0J3o)
 
-**[J25]** M. S. Cheema, M. Z. Sarwar, **V. C. Gogineni**, D. Cantero, and P. S. Rossi, "Computationally efficient structural health monitoring of bridges using graph signal processing," *IEEE Sensors J.*, vol. 24, no. 7, pp. 11895-11905, 2024. [Link to paper](https://findresearcher.sdu.dk/ws/portalfiles/portal/256785316/Bridge_Paper_on_SHM_Sensors_Journal_002_.pdf)
+**[J25]** TA Pallavi, B Srinivasulu, **B.Vimala**,VNP Siva Rama Krishna and VV Padmaja, "Effect of pre-harvest sprays on biochemical parameters in red pulp tamarind variety Anantha Rudhira," *The Pharma Innovation Journal *, Vol. 12, Issue.12, pp. 3668-3671, 2023.
 
 **[J24]** **V. C. Gogineni**, K. Müller, M. Orlandic, and S. Werner, "Light weight autoencoders for hyperspectral anomaly detection," *IEEE Geoscience and Remote Sensing Letters*, vol. 21, pp. 1-5, 2024. [Link to paper](https://acris.aalto.fi/ws/portalfiles/portal/142436321/LW_Auto_AE-accepted.pdf)
 
-**[J23]** R. Mirzai, **V. C. Gogineni**, N. K. D. Venkategowda, and S. Werner, "Smoothing ADMM for sparse-penalized quantile regression with non-convex penalties," *IEEE Open J. Signal Processing*, vol. 5, pp. 213-228, 2024. [Link to paper](https://findresearcher.sdu.dk/ws/portalfiles/portal/254158659/Smoothing_ADMM_for_Sparse-Penalized_Quantile_Regression_With_Non-Convex_Penalties.pdf)
+**[J23]** TA Pallavi, B Srinivasulu, B Vimala, VNP Siva Rama Krishna and VV Padmaja , "Smoothing ADMM for sparse-penalized quantile regression with non-convex penalties," *IEEE Open J. Signal Processing*, vol. 5, pp. 213-228, 2024. [Link to paper](https://findresearcher.sdu.dk/ws/portalfiles/portal/254158659/Smoothing_ADMM_for_Sparse-Penalized_Quantile_Regression_With_Non-Convex_Penalties.pdf)
 
 **[J22]** F. Gauthier, **V. C. Gogineni**, S. Werner, Y. Huang, and A. Kuh, "Personalized graph federated learning with differential privacy," *IEEE Trans. Signal and Info. Process. Networks*, vol. 9, pp. 736-749, 2023. [Link to paper](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/3100399/PGFL-2023.pdf?sequence=1&isAllowed=y)
 

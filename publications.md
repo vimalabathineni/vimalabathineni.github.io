@@ -5,7 +5,7 @@ layout: page
 
 ## Refereed Journals
 
-**[J28]** G Thrikala Madhavi, C Madhumathi, B Tanuja Priya, B Srinivasulu, **B.Vimala**, and M Jayaprada, "UNRAVELLING QUANTITATIVE PHENOTYPIC VARIATION OF CUSTARD APPLE SELECTIONS FROM SOUTHWESTERN PARTS OF ANDHRA PRADESH, INDIA," *Plant archives.*, vol. 24,issue. 2 pp. 591-594,2024. [Link to paper](https://www.plantarchives.org/article/83.pdf)
+**[J28]** G Thrikala Madhavi, C Madhumathi, B Tanuja Priya, B Srinivasulu, **B.Vimala**, and M Jayaprada, "Unravelling quantitative phenotypic variation of custard apple selections from southwestern parts of Andhra Pradesh, India," *Plant archives.*, vol. 24,issue. 2 pp. 591-594,2024. [Link to paper](https://www.plantarchives.org/article/83.pdf)
 
 
 **[J27]** M. S. Cheema, **V. C. Gogineni**, P. S. Rossi, and S. Werner, "Networked federated meta learning over extending graphs," *IEEE Internet Things J.*, 2024. [Link to paper](https://findresearcher.sdu.dk/ws/portalfiles/portal/272195880/Networked_FML.pdf)

@@ -37,13 +37,13 @@ layout: page
 
 **[J12]** B. Manjuvani and **B.Vimala**, “Hydrogels in horticulture,” Progressive Research–AnInternational Journal,” vol. 1, no. special-1,pp. 1068-1072, 2016. 
 
-**[J11]** B. Vimala, M. Pratap, R. Chandrsekhar and A. S. Sankar, “Influence of priming on seed quality of China aster (Callistephus chinensis L. Nees),” International Journal of Tropical Agriculture, vol.32 no.1-2, pp. 265-268, June. 2014 . [Link to paper](https://www.cabidigitallibrary.org/doi/pdf/10.5555/20153318061)
+**[J11]** **B.Vimala**, M. Pratap, R. Chandrsekhar and A. S. Sankar, “Influence of priming on seed quality of China aster (Callistephus chinensis L. Nees),” International Journal of Tropical Agriculture, vol.32 no.1-2, pp. 265-268, June. 2014 . [Link to paper](https://www.cabidigitallibrary.org/doi/pdf/10.5555/20153318061)
 
-**[J10]** **V. C. Gogineni**, S. P. Talebi, S. Werner and D. P. Mandic, "Fractional-order correntropy filters for tracking dynamic systems in $\alpha$-stable environments," *IEEE Trans. Circuits Syst. II: Express Briefs*, vol. 67, no. 12, pp. 3557-3561, 2020. [Link to paper](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2655273/TCAS-FINAL-VERSION-2020.pdf?sequence=1)
+**[J10]****B.Vimala**, M. Pratap, and A. S. Sankar, “Effect of different priming methods on seed quality, biochemical changes and storability of China Aster (Callistephus chinensis L.Nees),” Journal of Horticulture, vol. 1, no. 3, pp. 1-8, 2014. [Link to paper](https://www.longdom.org/open-access-pdfs/effect-of-different-priming-methods-on-seed-qualitybiochemical-changes-and-storability-of-china-aster-callistephus-chinensis-l-nees-2376-0354.1000115.pdf)
 
-**[J9]** **V. C. Gogineni** and M. Chakraborty, "Improving the performance of multitask diffusion APA via controlled inter-cluster cooperation," *IEEE Trans. Circuits Syst. I: Regular Papers*, vol. 67, no. 3, pp. 903-912, 2020.[Link to paper](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/3047041/Improving_the_Performance_of_Multitask_Diffusion_APA_via_Controlled_Inter_cluster_Cooperation.pdf?sequence=1)
+**[J9]** B. Vimala, M. Pratap, and A. S. Sankar, “Effect of priming methods on physiological and biochemical changes on stored seed of China aster (Callistephus chinensis L. Nees),”Trends in Biosciences, vol. 7, no. 3, pp. 429-433, Mar. 2014.[Link to paper](https://oa.mg/work/2256769249)
 
-**[J8]** S. Mula, **V. C. Gogineni** and A. S. Dhar, "Robust proportionate adaptive filter architectures under impulsive noise," *IEEE Trans. VLSI Syst.*, vol. 27, no. 5, pp. 1223-1227, 2019. [Link to paper](https://ieeexplore.ieee.org/document/8627952)
+**[J8]** D. Nagaharshitha, B Vimala, P. M. Haldankar, “Effect of bagging on growth and development of mango (Mangifera indica L.)cv. Alphonso,” Trends in Biosciences, 2014.. [Link to paper](https://www.researchgate.net/profile/Dinesh_Rai5/publication/343501434_New_Approaches_in_Insect_Pest_Management/links/5f2d2ac2458515b7290b1cb4/New-Approaches-in-Insect-Pest-Management.pdf?__cf_chl_tk=xH9358C.D3.JtUT5RTRIIwxwd5PjmsidioDd3LIFTyM-1736207097-1.0.1.1-8ArUeItiC5THRGPgnDVPelw.ys4z..eD_JdnpOlebEI)
 
 **[J7]** **V. C. Gogineni**, B. K. Das and M. Chakraborty, "An adaptive convex combination of APA and ZA-APA for identifying systems having variable sparsity and correlated input," *Digital Signal Process.*, vol. 82, pp. 118-132, 2018. [Link to paper](https://www.sciencedirect.com/science/article/abs/pii/S1051200418305141)
 

@@ -45,35 +45,6 @@ layout: page
 
 **[J8]** D. Nagaharshitha, B Vimala, P. M. Haldankar, “Effect of bagging on growth and development of mango (Mangifera indica L.)cv. Alphonso,” Trends in Biosciences, 2014.. [Link to paper](https://www.researchgate.net/profile/Dinesh_Rai5/publication/343501434_New_Approaches_in_Insect_Pest_Management/links/5f2d2ac2458515b7290b1cb4/New-Approaches-in-Insect-Pest-Management.pdf?__cf_chl_tk=xH9358C.D3.JtUT5RTRIIwxwd5PjmsidioDd3LIFTyM-1736207097-1.0.1.1-8ArUeItiC5THRGPgnDVPelw.ys4z..eD_JdnpOlebEI)
 
-**[J7]** **V. C. Gogineni**, B. K. Das and M. Chakraborty, "An adaptive convex combination of APA and ZA-APA for identifying systems having variable sparsity and correlated input," *Digital Signal Process.*, vol. 82, pp. 118-132, 2018. [Link to paper](https://www.sciencedirect.com/science/article/abs/pii/S1051200418305141)
-
-**[J6]** **V. C. Gogineni** and S. Mula, "Logarithmic cost based constrained adaptive filtering algorithms for sensor array beamforming," *IEEE Sensors J.*, vol. 18, no. 14, pp. 5897-5905, 2018. [Link to paper](https://ieeexplore.ieee.org/document/8368117)
-
-**[J5]** **V. C. Gogineni** and S. Mula, "Improved proportionate-type sparse adaptive filtering under maximum correntropy criterion in impulsive noise environments," *Digital Signal Process.*, vol. 79, pp. 190-198, 2018. [Link to paper](https://www.sciencedirect.com/science/article/abs/pii/S1051200418301568)
-
-**[J4]** S. Mula, **V. C. Gogineni** and A. S. Dhar, "Algorithm and VLSI architecture design of proportionate-type LMS adaptive filters for sparse system identification," *IEEE Trans. VLSI Syst.*, vol. 26, no. 9, pp. 1750-1762, 2018. [Link to paper](https://ieeexplore.ieee.org/document/8352130)
-
-**[J3]** B. K. Das, **V. C. Gogineni** and M. Chakraborty, "A convex combination of NLMS and ZA-NLMS for identifying systems with variable sparsity," *IEEE Trans. Circuits Syst. II: Express Briefs*, vol. 64, no. 9, pp. 1112 - 1116, 2017. [Link to paper](http://www.ecdept.iitkgp.ac.in/faculty/MChakraborty/Convex_NLMS.pdf)
-
-**[J2]** S. Mula, **V. C. Gogineni** and A. S. Dhar, "Algorithm and architecture design of adaptive filters with error non-linearities," *IEEE Trans. VLSI Syst.*, vol. 25, no. 9, pp. 2588-2601, 2017. [Link to paper](https://ieeexplore.ieee.org/document/7932492)
-
-**[J1]** B. K. N. Srinivasarao, **V. C. Gogineni**, S. Mula, and I. Chakrabarti, "A novel framework for compressed sensing based scalable video coding," *Signal Process.: Image Comm.*, vol. 57, pp. 183 - 196, 2017. [Link to paper](https://www.sciencedirect.com/science/article/abs/pii/S0923596517300863)
-
-*(Under Communication)*
-
-**[J29]** **V. C. Gogineni**, E. Nadimi, "Efficient knowledge deletion from trained models through layer-wise partial machine unlearning," *Journal of Machine Learning Research*, 2024 (Revised and Submitted). [Link to paper](https://findresearcher.sdu.dk/ws/portalfiles/portal/256871472/2403.07611v1.pdf)
-
-**[J30]** **V. C. Gogineni**, J-M Braun, B. S. Olesen and, G. Baatrup and E. Nadimi, "Enhancing polyp characterization in colon capsule endoscopy using ResNet9-KAN," *Knowledge-based Systems*, 2024 (Submitted). [Link to paper]()
-
-**[J31]** E. Lari, **V. C. Gogineni**, R. Arablouei and S. Werner, "Resilience in online federated learning: Mitigating model-poisoning attacks via partial sharing," *IEEE Trans. Signal and Info. Process.*, 2024 (Submitted). [Link to paper](https://arxiv.org/abs/2403.13108)
-
-**[J32]** M. S. Cheema, A. Chawla, **V. C. Gogineni**, P. S. Rossi, "Region-specific reliable channel estimation in RIS-enabled wireless communications via clustered federated learning," *IEEE Internet of Things J.*, 2024 (Submitted).
-
-**[J33]** E. Lari, **V. C. Gogineni**, R. Arablouei and S. Werner, "Noise-robust and resource-efficient ADMM-based federated learning," *IEEE Open J. Signal Processing*, 2024 (Submitted). [Link to paper](https://arxiv.org/abs/2409.13451)
-
-**[J34]** M. Parsayan, P. F. Høilund-Carlsen, **V. C. Gogineni**, and S. Andalib, "Classification of Alzheimer’s disease, mild cognitive impairment, and healthy subjects using a multimodal dataset and multi-class machine learning algorithms," 2024 (Submitted). 
-
-**[J35]** M. Parsayan, P. F. Høilund-Carlsen, **V. C. Gogineni**, and S. Andalib, "Impact of reference region selection on SUVR values in FDG-PET imaging of Alzheimer's disease," *Neuroscience*, 2024 (Submitted).
 
 
 ## **Conference Proceedings**

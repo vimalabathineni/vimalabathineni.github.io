@@ -10,7 +10,7 @@ layout: page
 
 **[J27]**  G.Thrikala Madhavi, C.Madhumathi, B.Tanuja Priya, B.Srinivasulu, **B.Vimala**, and M.Jayaprada, "Biochemical characterisation of custard apple selections," *International Journal of Advanced Biochemistry Research*,Vol.8, Issue.6, pp.271-274 2024. [Link to paper](https://www.biochemjournal.com/archives/2024/vol8issue6/PartD/8-6-59-198.pdf)
 
-**[J26]**  B. Nagendra Reddy , K. Umamaheswara Rao ,**B.Vimala**, K. Dhanumjaya Rao , J Dilip Babu, RVSK Reddy , Mohana, G.S. and Adiga J.D, "Field Efficacy of Insecticides for Management of Lepidopteran Pests in Cashew," *Uttar Pradesh Journal of Zoology*, vol. 45, no. 18, pp. 40-46, 2024. [[Link to paper](https://mbimph.com/index.php/UPJOZ/article/download/4421/4766/7248_cf_chl_tk=QHY4Khouhxae6P8nrd1DiGTTKIXBqP0O4fa6GOijEQI-1736198105-1.0.1.1-RiG2QIZB8ChZcfBrBDuPWot876el01zlz8Py7Jg0J3o)
+**[J26]**  B. Nagendra Reddy , K. Umamaheswara Rao ,**B.Vimala**, K. Dhanumjaya Rao , J Dilip Babu, RVSK Reddy , Mohana, G.S. and Adiga J.D, "Field Efficacy of Insecticides for Management of Lepidopteran Pests in Cashew," *Uttar Pradesh Journal of Zoology*, vol. 45, no. 18, pp. 40-46, 2024. [Link to paper](https://mbimph.com/index.php/UPJOZ/article/download/4421/4766/7248_cf_chl_tk=QHY4Khouhxae6P8nrd1DiGTTKIXBqP0O4fa6GOijEQI-1736198105-1.0.1.1-RiG2QIZB8ChZcfBrBDuPWot876el01zlz8Py7Jg0J3o)
 
 **[J25]** M. S. Cheema, M. Z. Sarwar, **V. C. Gogineni**, D. Cantero, and P. S. Rossi, "Computationally efficient structural health monitoring of bridges using graph signal processing," *IEEE Sensors J.*, vol. 24, no. 7, pp. 11895-11905, 2024. [Link to paper](https://findresearcher.sdu.dk/ws/portalfiles/portal/256785316/Bridge_Paper_on_SHM_Sensors_Journal_002_.pdf)
 

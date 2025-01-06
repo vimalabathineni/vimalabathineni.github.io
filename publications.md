@@ -5,10 +5,10 @@ layout: page
 
 ## Refereed Journals
 
-**[J28]** G Thrikala Madhavi, C Madhumathi, B Tanuja Priya, B Srinivasulu, **B.Vimala**, and M Jayaprada, "Unravelling quantitative phenotypic variation of custard apple selections from southwestern parts of Andhra Pradesh, India," *Plant archives.*, vol. 24,issue. 2 pp. 591-594,2024. [Link to paper](https://www.plantarchives.org/article/83.pdf)
+**[J28]** G Thrikala Madhavi, C Madhumathi, B Tanuja Priya, B Srinivasulu, **B.Vimala**, and M Jayaprada, "Unravelling quantitative phenotypic variation of custard apple selections from southwestern parts of Andhra Pradesh, India," *Plant Archives.*, Vol. 24,Issue.2 pp. 591-594,2024. [Link to paper](https://www.plantarchives.org/article/83.pdf)
 
 
-**[J27]** M. S. Cheema, **V. C. Gogineni**, P. S. Rossi, and S. Werner, "Networked federated meta learning over extending graphs," *IEEE Internet Things J.*, 2024. [Link to paper](https://findresearcher.sdu.dk/ws/portalfiles/portal/272195880/Networked_FML.pdf)
+**[J27]** G Thrikala Madhavi, C Madhumathi, B Tanuja Priya, B Srinivasulu, **B.Vimala**, and M Jayaprada, "Biochemical characterisation of custard apple selections," *International Journal of Advanced Biochemistry Research*,Vol.8, Issue.6, pp.271-274 2024. [Link to paper](https://www.biochemjournal.com/archives/2024/vol8issue6/PartD/8-6-59-198.pdf)
 
 **[J26]** S. Ramesh, K. Manna, **V. C. Gogineni**, S. Chattopadhyay, and S. Mahapatra, "Congestion-aware vertical link placement and application mapping onto three-dimensional network-on-chip architectures," *IEEE Trans. Comput.-Aided Design Integr. Circuits Syst.*, vol. 43, no. 8, pp. 2249-2262, 2024. [Link to paper](https://findresearcher.sdu.dk/ws/portalfiles/portal/256785427/Application_mapping_in_3D_NoC.pdf)
 

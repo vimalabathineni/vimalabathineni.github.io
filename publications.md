@@ -5,7 +5,7 @@ layout: page
 
 ## Refereed Journals
 
-**[J28]** P. Ganjimala, **B.Vimala**, and S. Mula, "UNRAVELLING QUANTITATIVE PHENOTYPIC VARIATION OF CUSTARD APPLE SELECTIONS FROM SOUTHWESTERN PARTS OF ANDHRA PRADESH, INDIA," *Plant archives.*, vol. 24,issue. 2 pp. 591-594,2024. [Link to paper)(https://www.plantarchives.org/article/83.pdf)
+**[J28]** P. Ganjimala, **B.Vimala**, and S. Mula, "UNRAVELLING QUANTITATIVE PHENOTYPIC VARIATION OF CUSTARD APPLE SELECTIONS FROM SOUTHWESTERN PARTS OF ANDHRA PRADESH, INDIA," *Plant archives.*, vol. 24,issue. 2 pp. 591-594,2024. [Link to paper](https://www.plantarchives.org/article/83.pdf)
 
 
 **[J27]** M. S. Cheema, **V. C. Gogineni**, P. S. Rossi, and S. Werner, "Networked federated meta learning over extending graphs," *IEEE Internet Things J.*, 2024. [Link to paper](https://findresearcher.sdu.dk/ws/portalfiles/portal/272195880/Networked_FML.pdf)

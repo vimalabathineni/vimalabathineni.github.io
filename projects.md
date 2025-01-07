@@ -1,4 +1,4 @@
-**Scientist Horticulture** **From September,2016 to Januay, 2019**
+**Scientist Horticulture** (**From September,2016 to Januay, 2019**)
 
 **Project leader** in Research projects/experiments as per approved technical programme of work
 at Cashew Research station, Bapatla under AICRP on Cashew, ICAR-DCR,Puttur.
@@ -9,6 +9,7 @@ at Cashew Research station, Bapatla under AICRP on Cashew, ICAR-DCR,Puttur.
 3. High Density Planting –Observational trial
 4. Intercropping in Cashew
 5. Varietal screening of cashew apple for preparation of RTS and JAM
+   
 **Project Associate**
 
 **Crop Improvement**

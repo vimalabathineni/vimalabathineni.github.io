@@ -104,4 +104,24 @@ regions of AP- Pros and Cons, National Conference on Arid fruits: Away Forward f
  
 **[BC1]** A. Pedapati, K. Aravinda Ram, S. K. Yadav, A. K.Singh,  **B.Vimala** , “Biocontrol a new trend in minimizing postharvest diseases of fruits and vegetables,” in Plant Diseases and their Sustainable Management, S. S. Vaish, Biotech, 2016, pp. 99-111.
 
+## **Popular Articles (Veracular Language- Telugu)**
+
+**[P9]** P.Deepthi and **B.Vimala** , Danimmalo tegulla jayamanyam, Vyavasayam, October 2021
+
+**[P8]** **B.Vimala**  and P.Deepthi ,Allaneredu sagulo melakuvalu, Vyavasayam, July 2021
+
+**[P7]** **B.Vimala**  B.Nagendra Reddy and P.Deepthi,Tomato pantalo soodhi purugu udruthi-nivarana charyalu.Vyavasayam: November 2020,pp.34-36
+
+**[P6]** B.Srinivasulu, P.Deepthi,**B.Vimala** , and M.Pushpalatha, Chintalo nutana rakalu anantha rudhira, thettu amalika, Annadata, December
+2019, pp.38-40.
+
+**[P5]** K Umamaheswara rao, **B.Vimala**  and B.Nagendra Reddy.Jeedimamidilo digubadi peragalante,Annadata August ,2018 pp: 56-57
+
+**[P4]** **B.Vimala** , K Umamaheswara rao and B.Nagendra Reddy, Jeedimamidi pandlatho palu utpttula tayari, Annadata April , 2017 pp: 54-56
+
+**[P3]** B.Nagendra Reddy, K.Umamaheswara rao. and**B.Vimala** ,Jeedimamidini ashinche kandam mariyu veru toluchu purugu –Nivarana,Annadata November,2017,pp: 56-57
+
+**[P2]** K Umamaheswara rao. B.Nagendra Reddy and **B.Vimala** , Jeedimamidi antla tayarilo melakuvalu,Annadata August,2017,pp: 46-48
+
+**[P1]** **B.Vimala**  and U.Pavani, Wood Rose,Floriculture Today March, 2017
 

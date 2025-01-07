@@ -49,9 +49,9 @@ layout: page
 
 ## **Abstracts from Conference **
 
-**[C8]** Nagendra Reddy B, Umamaheshwara rao K, **B.Vimala**, Dhanunjaya Rao K, Mohana GS, Ravi prasad TN and Adiga JD, “Efficacy of different insecticides against Cashew stem and root borer, Plocaederus ferrugineus L”, 25th National Symposium on Plantation Crops organized by ICAR- Indian Institute of Oil palm Research pp: 143, 2023. 
+**[C12]** Nagendra Reddy B, Umamaheshwara rao K, **B.Vimala**, Dhanunjaya Rao K, Mohana GS, Ravi prasad TN and Adiga JD, “Efficacy of different insecticides against Cashew stem and root borer, Plocaederus ferrugineus L”, 25th National Symposium on Plantation Crops organized by ICAR- Indian Institute of Oil palm Research pp: 143, 2023. 
 
-**[C7]** P.Deepthi and **B.Vimala**, “Tea mosquito bug -posing potential threat on tamarind under aberrant weather conditions of Andhra pradesh” , National Conference onagrometeorological interventions for climate resilience agriculture (Agromet 2022) Organized by Tamilnadu Agricultural University (TNAU,Coimbatore).
+**[C11]** P.Deepthi and **B.Vimala**, “Tea mosquito bug -posing potential threat on tamarind under aberrant weather conditions of Andhra pradesh” , National Conference onagrometeorological interventions for climate resilience agriculture (Agromet 2022) Organized by Tamilnadu Agricultural University (TNAU,Coimbatore).
 
 **[C10]** P.Deepthi, and **B.Vimala**, “Changing Scenario of Pomegranate diseases in Andhra Pradesh”, International Webinar on Pomegranate: Ancient Fruit in Modern Horticulture organized by ICAR-NRCP and ICAR-CIAH, SARP, Solapur from 25-27th, August, 2021 and awarded **Best
 poster Presentation**.

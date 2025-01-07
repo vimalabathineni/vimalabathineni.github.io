@@ -1,8 +1,5 @@
----
-title: ""
-layout: page
-----
-**From September,2016 to Januay, 2019**
+**Scientist Horticulture** **From September,2016 to Januay, 2019**
+
 **Project leader** in Research projects/experiments as per approved technical programme of work
 at Cashew Research station, Bapatla under AICRP on Cashew, ICAR-DCR,Puttur.
 

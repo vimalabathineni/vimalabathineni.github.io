@@ -53,13 +53,21 @@ layout: page
 
 **[C7]** P.Deepthi and **B.Vimala**, “Tea mosquito bug -posing potential threat on tamarind under aberrant weather conditions of Andhra pradesh” , National Conference onagrometeorological interventions for climate resilience agriculture (Agromet 2022) Organized by Tamilnadu Agricultural University (TNAU,Coimbatore).
 
+**[C4]** P.Deepthi, and **B.Vimala**, “Changing Scenario of Pomegranate diseases in Andhra Pradesh”, International Webinar on Pomegranate: Ancient Fruit in Modern Horticulture organized by ICAR-NRCP and ICAR-CIAH, SARP, Solapur from 25-27th, August, 2021 and awarded **Best
+poster Presentation**.
+
+**[C3]** **B.Vimala**, P.Deepthi,and B.Srinivasulu, “Tamarind A game changer in wastelands of South India”,9th Indian Horticulture Congress organized by Indian Academy of Horticulture Sciences(IAHS), New Delhi from 18-21st November,2021 (**Oral Presentation**)
+
 **[C6]** P.Deepti, **B.Vimala** and B.Srinivasulu, “Tamarind – a sour crop of sure income,” Advances and Future Outlook in Biotechnology and crop improvement for sustainable productivity,organized by Department of Biotechnology and Crop improvement, COH, Bangalore, during
 20-27th November,2020.
 
 **[C5]** **B.Vimala**, P.Deepthi and B.Nagendra Reddy, “Effect of Phyllody in China aster,”Advances and Future Outlook in Biotechnology and crop improvement for sustainable productivity, organized by Department of Biotechnology and Crop improvement, COH, Bangalore, during
 20-27th November,2020.
 
-**[C4]** U.Pavani, **B.Vimala** and M.Pratap  “Studies on heterosis in china aster (Callestephuschinensis l. Nees),organized by Department of Biotechnology and Crop improvement, COH, Bangalore, during 20-27th November,2020.
+**[C5]** U.Pavani, **B.Vimala** and M.Pratap  “Studies on heterosis in china aster (Callestephuschinensis l. Nees),organized by Department of Biotechnology and Crop improvement, COH, Bangalore, during 20-27th November,2020.
+
+**[C4]** Dr. P. Deepthi, Dr.B.Srinivasulu, **B.Vimala** and Shaik Tahir Ibrahim.  “Leaf Footed Plant Bug:The Pest on Pomegranate
+expanding its horizons in Andhra Pradesh, National Conference on Arid fruits: Away Forward for Sustainable production and National Security Organised at UAS,Raichur from November 28-30, 2019
 
 **[C4]** P.Deepthi, and **B.Vimala**, “Changing Scenario of Pomegranate diseases in Andhra Pradesh”, International Webinar on Pomegranate: Ancient Fruit in Modern Horticulture organized by ICAR-NRCP and ICAR-CIAH, SARP, Solapur from 25-27th, August, 2021 and awarded **Best
 poster Presentation**.

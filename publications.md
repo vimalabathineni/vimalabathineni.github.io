@@ -81,13 +81,22 @@ regions of AP- Pros and Cons, National Conference on Arid fruits: Away Forward f
 
 
 ## **Books**
-**[B2]** M. Prabhakar, K. S. Reddy, K. Srinivas,V. Maruthi, D. B. V. Ramana, **B.Vimala**,K.C.Nataraja, K. L. Sharma, M. Srinivas Rao and M. Maheswari, “Roots of rainfed crops biomass, composition and Carbon mineralization,” Research Bulletin, CRIDA,pp. 1-76,2017.
+
+**[B5]** **B.Vimala** and P.Deepthi,Allaneredu sagulo melaina yajamanya paddatulu, pp. 1-16, 2021, Published by DrYSRHU & CSS-MIDH.
+
+**[B4]** K Umamaheswara rao,B.Nagendra Reddy ,  **B.Vimala** and L.Naram Naidu, Jeedimamidi Samagra Yajamanya Paddatalu, pp. 1-43,2017 Published by Dr.YSRHU and DCCD,KOCHI.
+
+
+**[B3]** M. Prabhakar, K. S. Reddy, K. Srinivas,V. Maruthi, D. B. V. Ramana, **B.Vimala**,K.C.Nataraja, K. L. Sharma, M. Srinivas Rao and M. Maheswari, “Roots of rainfed crops biomass, composition and Carbon mineralization,” Research Bulletin, CRIDA,pp. 1-76,2017.
+
+**[B2]** K Umamaheswara rao,B.Nagendra Reddy and  **B.Vimala**, Jeedimamidi saagu Melyna Yajamanya paddatalu, pp.1-26,2016 Published by Dr.YSRHU and DCCD,KOCHI.
 
 **[B1]** **B.Vimala** and M. Pratap “Effect of Different Priming Methods on Seed Quality of China Aster”, Lambert Academic publishing (LAP), July. 2014.
 
 
 ## **Book Chapters**
 
+**[BC4]** K.Ashok Kumar,G.D.Uma devi, B.Sahadeva Reddy, K.V.S.Sudheer, Y.Pavankumar Reddy, P.Radhika, H.Srinivas Naik and P.Deepthi and **B.Vimala**  Masala variga vividha udyana pantalandu chepattavalasina panulu in Vyavasayam, pasuposhana mariyu kola pempakam labhasatiga undalante pp.27-38,2021.
 **[BC3]** K Umamaheswara rao, **B.Vimala**  and B.Nagendra Reddy , “Status of Cashew Research and Development in Andhra Pradesh”, Status of cashew Research and Development in India : a state perspective, ICAR- DCR Puttur, 2017.
  **[BC2]** K.Umamaheswara Rao and K.M.Yuvaraj and  **B.Vimala** , Varietal Screening of cashew apple for the preparation of RTS and Jam of CRS, Bapatla, Varietal Screening of cashew apple for the preparation of RTS and Jam ICAR -DCR, Puttur 2017.
 **[BC1]** A. Pedapati, K. Aravinda Ram, S. K. Yadav, A. K.Singh,  **B.Vimala** , “Biocontrol a new trend in minimizing postharvest diseases of fruits and vegetables,” in Plant Diseases and their Sustainable Management, S. S. Vaish, Biotech, 2016, pp. 99-111.

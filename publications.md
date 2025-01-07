@@ -64,9 +64,9 @@ layout: page
 **[C4]** P.Deepthi, and **B.Vimala**, “Changing Scenario of Pomegranate diseases in Andhra Pradesh”, International Webinar on Pomegranate: Ancient Fruit in Modern Horticulture organized by ICAR-NRCP and ICAR-CIAH, SARP, Solapur from 25-27th, August, 2021 and awarded **Best
 poster Presentation**.
 
-**[C3]** **B.Vimala**, P.Deepthi,and B.Srinivasulu, “Tamarind A game changer in wastelands of South India”,9th Indian Horticulture Congress organized by Indian Academy of Horticulture Sciences(IAHS), New Delhi from 18-21st November,2021(Oral Presentation)
+**[C3]** **B.Vimala**, P.Deepthi,and B.Srinivasulu, “Tamarind A game changer in wastelands of South India”,9th Indian Horticulture Congress organized by Indian Academy of Horticulture Sciences(IAHS), New Delhi from 18-21st November,2021 (**Oral Presentation**)
 
 **[C2]** G.Chandramouli,D.Kalyan srinivas,**B.Vimala** and Y.Bindiya, "Crop water requirement for Gladiolus under different field conditions
 ," i9th Conference of the Asian Fede ration for Information Technology in Agriculture “ICT’s for future Economic and Sustainable Agricultural Systems” vol.1, pp 73-82,2014 organized by Australian Soci ety of Information and Co mmunication Technologies in Agriculture Inc. P/O Box 627, I nglewood , Western Australia, 6932
 
-**[C1]** **V. C. Gogineni**, R. L. Das, and M. Chakraborty, "Proportionate-type hard thresholding adaptive filter for sparse system identification," in *Proc. IEEE Int. Conf. Asia Pacific Signal and Info. Process. Assoc.*, Dec. 2014, pp. 1-6.
+**[C1]** **B.Vimala**, "Effect of different priming methods on seed quality, biochemical changes and storability of china aster (Callistephus chinensis L.Nees)" in 2nd International Conference on Agricultural & Horticultural Sciences February 03-05, 2014 Radisson Blu Plaza Hotel, Hyderabad, India organized by **Omics** group.

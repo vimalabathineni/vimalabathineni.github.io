@@ -97,8 +97,11 @@ regions of AP- Pros and Cons, National Conference on Arid fruits: Away Forward f
 ## **Book Chapters**
 
 **[BC4]** K.Ashok Kumar,G.D.Uma devi, B.Sahadeva Reddy, K.V.S.Sudheer, Y.Pavankumar Reddy, P.Radhika, H.Srinivas Naik and P.Deepthi and **B.Vimala**  Masala variga vividha udyana pantalandu chepattavalasina panulu in Vyavasayam, pasuposhana mariyu kola pempakam labhasatiga undalante pp.27-38,2021.
+
 **[BC3]** K Umamaheswara rao, **B.Vimala**  and B.Nagendra Reddy , “Status of Cashew Research and Development in Andhra Pradesh”, Status of cashew Research and Development in India : a state perspective, ICAR- DCR Puttur, 2017.
+
  **[BC2]** K.Umamaheswara Rao and K.M.Yuvaraj and  **B.Vimala** , Varietal Screening of cashew apple for the preparation of RTS and Jam of CRS, Bapatla, Varietal Screening of cashew apple for the preparation of RTS and Jam ICAR -DCR, Puttur 2017.
+ 
 **[BC1]** A. Pedapati, K. Aravinda Ram, S. K. Yadav, A. K.Singh,  **B.Vimala** , “Biocontrol a new trend in minimizing postharvest diseases of fruits and vegetables,” in Plant Diseases and their Sustainable Management, S. S. Vaish, Biotech, 2016, pp. 99-111.
 
 

@@ -12,7 +12,8 @@ at Cashew Research station, Bapatla under AICRP on Cashew, ICAR-DCR,Puttur.
 3. High Density Planting –Observational trial
 4. Intercropping in Cashew
 5. Varietal screening of cashew apple for preparation of RTS and JAM
-**Project Associate** 
+**Project Associate**
+
 **Crop Improvement**
 1. Germplasm collection, conservation, evaluation, characterization and cataloguing
 2. Multi-location trial-III (MLT-2002
@@ -20,10 +21,12 @@ at Cashew Research station, Bapatla under AICRP on Cashew, ICAR-DCR,Puttur.
 4. Hybridization and selection
 5. characterization of germplasm for cashew apple
 6. Rapid polyclonal hybrid evaluation trial
+   
 **Non plan Horticulture**
 1. Introduction of Nontraditional fruit crops in Coastal humid area( Bread Fruit, Durian,
 Jack Fruit, Kokum, Mangosteen and Rambhutan)
 2. Evaluation of promising F 1 Hybrids of CRS , Bapatla
+   
 **Crop Protection**
 1. Evaluation of insecticides for the control of TMB and other insect pests
 2. Control of Cashew Stem and Root borer. Curative trial (Post extraction prophylaxis).

@@ -78,3 +78,18 @@ regions of AP- Pros and Cons, National Conference on Arid fruits: Away Forward f
 ," i9th Conference of the Asian Fede ration for Information Technology in Agriculture “ICT’s for future Economic and Sustainable Agricultural Systems” vol.1, pp 73-82,2014 organized by Australian Soci ety of Information and Co mmunication Technologies in Agriculture Inc. P/O Box 627, I nglewood , Western Australia, 6932
 
 **[C1]** **B.Vimala**, "Effect of different priming methods on seed quality, biochemical changes and storability of china aster (Callistephus chinensis L.Nees)" in 2nd International Conference on Agricultural & Horticultural Sciences February 03-05, 2014 Radisson Blu Plaza Hotel, Hyderabad, India organized by **Omics** group.
+
+
+## **Books**
+**[B2]** M. Prabhakar, K. S. Reddy, K. Srinivas,V. Maruthi, D. B. V. Ramana, **B.Vimala**,K.C.Nataraja, K. L. Sharma, M. Srinivas Rao and M. Maheswari, “Roots of rainfed crops biomass, composition and Carbon mineralization,” Research Bulletin, CRIDA,pp. 1-76,2017.
+
+**[B1]** **B.Vimala** and M. Pratap “Effect of Different Priming Methods on Seed Quality of China Aster”, Lambert Academic publishing (LAP), July. 2014.
+
+
+## **Book Chapters**
+
+**[BC3]** K Umamaheswara rao, **B.Vimala**  and B.Nagendra Reddy , “Status of Cashew Research and Development in Andhra Pradesh”, Status of cashew Research and Development in India : a state perspective, ICAR- DCR Puttur, 2017.
+ **[BC2]** K.Umamaheswara Rao and K.M.Yuvaraj and  **B.Vimala** , Varietal Screening of cashew apple for the preparation of RTS and Jam of CRS, Bapatla, Varietal Screening of cashew apple for the preparation of RTS and Jam ICAR -DCR, Puttur 2017.
+**[BC1]** A. Pedapati, K. Aravinda Ram, S. K. Yadav, A. K.Singh,  **B.Vimala** , “Biocontrol a new trend in minimizing postharvest diseases of fruits and vegetables,” in Plant Diseases and their Sustainable Management, S. S. Vaish, Biotech, 2016, pp. 99-111.
+
+

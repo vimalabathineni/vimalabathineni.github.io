@@ -42,24 +42,23 @@ Jack Fruit, Kokum, Mangosteen and Rambhutan)
 **Project leader** in Research projects/experiments as per approved technical programme of work
 at Horticulture Research station, Anantapur under **AICRP on Arid Zone FRuits (AZF), ICAR-CIAH,Bikaner**.
 
-1.Germplasm evaluation and maintenance of Aonla.
+1. Germplasm evaluation and maintenance of Aonla.
+2. Germplasm evaluation and maintenance of Ber
+3. Germplasm evaluation and maintenance of Pomegranate.
+4. Germplasm evaluation and maintenance of Tamarind.
+5. Germplasm evaluation and maintenance of Tamarind
+6. Germplasm Repository, Evaluation and Improvement in Custard Apple.
+7. Varietal trial of Custard Apple..
+8. Varietal trial of Pomegranate.
+9. Varietal trial of Tamarind.
+10. Varietal trial of Aonla.
+11. Standardization of Pruning technology in Custard apple
+12. Evaluation of different propagules of pomegranate for their reaction to biotic/abiotic stress
+13. Multi-location testing of pomegranate sweet type hybrids for juice and table purpose
+14. Multi-location testing of pomegranate sour type hybrids for processing (Anardana)
+15. Development of ber based cropping system cv. Gola
+16. High density planting in custard apple Phule Janaki (F1) (New Experiment)
 
-2.Germplasm evaluation and maintenance of Ber.
-
-3.Germplasm evaluation and maintenance of Pomegranate.
-
-4.Germplasm evaluation and maintenance of Tamarind.
-5.Germplasm Repository, Evaluation and Improvement in Custard Apple.
-6.Varietal trial of Custard Apple.
-7.Varietal trial of Pomegranate. 
-8.Varietal trial of Tamarind. 
-9.Varietal trial of Aonla. 
-10.Standardization of Pruning technology in Custard apple
-11.Evaluation of different propagules of pomegranate for their reaction to biotic/abiotic stress
-12.Multi-location testing of pomegranate sweet type hybrids for juice and table purpose
-13.Multi-location testing of pomegranate sour type hybrids for processing (Anardana)
-14.Development of ber based cropping system cv. Gola
-15.High density planting in custard apple Phule Janaki (F1) (New Experiment)
 
 **Non Plan HORTICULTURE** 
 1. Studies on effect of planting density and Canopy management on growth, yield and quality of Jamun cv. Konkan Bahadoli

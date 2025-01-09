@@ -17,14 +17,14 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Home"}
-  - {file: "research.md", title: "Research"}
-  - {file: "projects.md", title: "Projects"}
+  - {file: "employment.md", title: "Employment History"}
+  - {file: "projects.md", title: "Research Projects"}
   - {file: "publications.md", title: "Publications"}
-  - {url: "./Teaching CV.pdf", title: Teaching}
+  - {url: "./Radio and TV programmes.md", title: Extension}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:vigo@mmmi.sdu.dk"}
-  - {title: Github, icon: github, url: "https://github.com/vinaychakravarthi"}
+  - {title: Mail, icon: envelope, url: "mailto:vimalabathineni@gmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/vimalabathineni"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/

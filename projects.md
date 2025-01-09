@@ -38,6 +38,7 @@ Jack Fruit, Kokum, Mangosteen and Rambhutan)
 4. Screening of germplasm to locate tolerant/ resistant types to major pests of the region
 
 **Scientist Horticulture** (**From January,2019 to August, 2023**)
+
 **Project leader** in Research projects/experiments as per approved technical programme of work
 at Horticulture Research station, Anantapur under **AICRP on Arid Zone FRuits (AZF), ICAR-CIAH,Bikaner**.
 

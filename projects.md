@@ -1,7 +1,7 @@
 **Scientist Horticulture** (**From September,2016 to Januay, 2019**)
 
 **Project leader** in Research projects/experiments as per approved technical programme of work
-at Cashew Research station, Bapatla under AICRP on Cashew, ICAR-DCR,Puttur.
+at Cashew Research station, Bapatla under **AICRP on Cashew, ICAR-DCR,Puttur**.
 
 **Crop Management**
 1. Organic Management in Cashew
@@ -9,6 +9,11 @@ at Cashew Research station, Bapatla under AICRP on Cashew, ICAR-DCR,Puttur.
 3. High Density Planting –Observational trial
 4. Intercropping in Cashew
 5. Varietal screening of cashew apple for preparation of RTS and JAM
+6. Rapid polyclonal hybrid evaluation trial
+
+ **Non plan Horticulture**
+1. Effect of different potting media along with biofertilizers on growth of seedlings of
+Cashew at CRS , Bapatla
    
 **Project Associate**
 
@@ -18,7 +23,8 @@ at Cashew Research station, Bapatla under AICRP on Cashew, ICAR-DCR,Puttur.
 3. Multi-location trial-V (performance of released varieties
 4. Hybridization and selection
 5. characterization of germplasm for cashew apple
-6. Rapid polyclonal hybrid evaluation trial
+7. Evaluation of CNSL free types for tender kernel purpose
+6. New breeding approach with five different high yielding hybrids.
    
 **Non plan Horticulture**
 1. Introduction of Nontraditional fruit crops in Coastal humid area( Bread Fruit, Durian,

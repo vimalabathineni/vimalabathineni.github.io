@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "employment.md", title: "Employment History"}
   - {file: "Research projects.md", title: "Research Projects"}
   - {file: "publications.md", title: "Publications"}
-  - {file: "Radio and TV programmes.md", title: Extension}
+  - {file: "Extension Activities.md", title: Extension Activities}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:vimalabathineni@gmail.com"}

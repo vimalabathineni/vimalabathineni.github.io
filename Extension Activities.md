@@ -1,5 +1,5 @@
 ---
-title: "Empowering Farmers Through Diverse Media and Technology Transfer "
+title: "Bridging Technology and Farmers: Multi-Channel Knowledge Transfer"
 layout: page
 ---
 **Radio Talks Delivered**

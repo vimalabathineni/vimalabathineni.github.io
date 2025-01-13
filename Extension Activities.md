@@ -2,17 +2,13 @@
 title: "About"
 layout: page
 ---
-
 **Radio Talks Delivered**
 1.Delivered radiotalk on Tamarind cultivation techniques on 28-10-2021 organized by AIR, Anantapuramu.
-
-2.Delivered AIR Program, Anantapuramu on topic Date palm saagulo melakuvalu on 20-05-2021
-
-3.Delivered AIR Program, Anantapuramu on topic Dragon fruit lo yajamanyam on 08-03-2022.
-
-4. Delivered AIR Program, Anantapuramu on topic jilla lo sagulo unna pandlu, kooragayalu,poola thotallo vache vividha rakala samasyalu on 21-06-2022.
-   
-5.Delivered AIR Program, Anantapuramu on topic jilla lo sagulo unna pandlu, kooragayalu,poola thotallo vache vividha rakala samasyalu on 24-11-2022.
+2.Delivered AIR Program, Anantapuramu on topic Date palm saagulo melakuvalu on 20-05-2021.
+3.Delivered AIR Program, Anantapuramu on topic Date palm saagulo melakuvalu on 20-05-2021
+4.Delivered AIR Program, Anantapuramu on topic Dragon fruit lo yajamanyam on 08-03-2022.
+5.Delivered AIR Program, Anantapuramu on topic jilla lo sagulo unna pandlu, kooragayalu,poola thotallo vache vividha rakala samasyalu on 21-06-2022.
+6.Delivered AIR Program, Anantapuramu on topic jilla lo sagulo unna pandlu, kooragayalu,poola thotallo vache vividha rakala samasyalu on 24-11-2022.
 
 **Phone-in programmes**
 1. Attended Phone- in- live programme on Ber Cultivation, ATP on 21st Organized by Dr. YSRHU.

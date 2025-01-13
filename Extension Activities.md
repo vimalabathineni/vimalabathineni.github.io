@@ -1,6 +1,6 @@
 ---
 title: "Bridging Technology and Farmers: Multi-Channel Knowledge Transfer"
-layout: page
+layout: pages
 ---
 **Radio Talks Delivered**
 

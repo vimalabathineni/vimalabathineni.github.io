@@ -1,5 +1,5 @@
 ---
-title: "Involved in transfer of technology to the farming community through different types of media v.z.,TV,Radio, Youtube, Newspaper, Pamplets, Farmers training programmes, Diagnostic field visits, Kisanmelas etc., "
+title: "Empowering Farmers Through Diverse Media and Technology Transfer "
 layout: page
 ---
 **Radio Talks Delivered**

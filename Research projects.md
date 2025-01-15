@@ -9,7 +9,7 @@ Key achievements include:
 
 **Pest Management:** Assisted in research on pest control, evaluating insecticides and integrated pest management strategies for cashew, as well as exploring innovative methods to control stem and root borers.
 
-**Plant Propagation**
+**Plant Propagation:**
 
 **RKVY Project & DCCD Project:** As a Project Investigator, involved in production of Quality Cashew Planting material and distributed among the farming community
 
@@ -23,6 +23,11 @@ Key contributions include:
 **Innovative Farming Systems:** Initiated high-density planting trials in Custard Apple and developed a ber-based cropping system to enhance productivity in arid conditions.
 
 **Non-Traditional Crops:** Conducted research on the growth and management of non-traditional crops like Jamun, Dragonfruit, and Datepalm, exploring their adaptability to arid environments.
+
+**Plant Propagation:**
+
+**RKVY Project & CSS-MIDH:** As a Project Investigator, involved in production of Quality Arid Fruit crops Planting material and distributed among the farming community
+
 
 
 

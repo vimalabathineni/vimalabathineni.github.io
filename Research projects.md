@@ -1,40 +1,21 @@
-**Scientist Horticulture**
-Cashew Research Station, Bapatla
-**September 2016 – January 2019**
+Scientist Horticulture
+Cashew Research Station, Bapatla (2016–2019)
 AICRP on Cashew, ICAR-DCR, Puttur
 
-As a Project Leader, I led and executed critical research projects aimed at improving cashew cultivation practices, crop protection, and varietal development. My work primarily focused on enhancing productivity, sustainability, and pest management.
+As a Project Leader, I led and managed research focused on optimizing cashew cultivation practices, crop protection, and varietal improvement. Key achievements include:
 
-  **Crop Management & Innovation:**
-  
-1.Implemented organic management techniques, optimized fertilizer use in high-density cashew plantations, and explored intercropping systems.
-2.Led successful trials on high-density planting, aiming to increase production while maintaining soil health.
-
-  **Research on Crop Improvement:**
-  
-1.Managed germplasm collection, evaluation, and cataloguing, contributing significantly to the genetic diversity of cashew varieties.
-2.Conducted multi-location trials and hybridization programs, enhancing productivity and resilience in cashew crops.
-
-  **Pest Management & Protection:**(Project Associate)
-Pioneered insecticide efficacy trials and developed integrated pest management solutions for cashew.
-Led research on the control of cashew stem and root borers, using innovative curative treatments post-extraction.
-
-**Scientist Horticulture**
-Horticulture Research Station, Anantapur
-**January 2019 – August 2023**
+Crop Management: Implemented organic management practices, optimized high-density planting systems, and explored intercropping in cashew to improve yield while maintaining environmental sustainability.
+Crop Improvement: Managed germplasm collection and evaluation, developed new hybrid varieties, and conducted multi-location trials to enhance productivity and resilience.
+Pest Management: Led research on pest control, evaluating insecticides and integrated pest management strategies for cashew, as well as exploring innovative methods to control stem and root borers.
+Scientist Horticulture
+Horticulture Research Station, Anantapur (2019–2023)
 AICRP on Arid Zone Fruits (AZF), ICAR-CIAH, Bikaner
 
-In my leadership role, I directed projects focused on horticultural crops in arid zones, including Aonla, Ber, Pomegranate, and Custard Apple. My work aimed at improving crop yield, resilience, and sustainable agricultural practices in challenging climates.
+In my role, I led research on horticultural crops in arid zones, focusing on crop yield improvement, resilience, and sustainability under challenging environmental conditions. Key contributions include:
 
-  **Germplasm Evaluation & Varietal Development:**
-Led the evaluation and maintenance of diverse germplasm collections for multiple fruits, supporting the development of high-yielding, resilient cultivars.
-Conducted varietal trials and pruning standardization, optimizing crop performance for various fruits, including Pomegranate and Custard Apple.
+Germplasm Evaluation & Crop Improvement: Led the evaluation of diverse fruit germplasm, focusing on developing high-yielding, climate-resilient varieties of Aonla, Ber, Pomegranate, and Custard Apple.
+Innovative Farming Systems: Initiated high-density planting trials in Custard Apple and developed a ber-based cropping system to enhance productivity in arid conditions.
+Non-Traditional Crops: Conducted research on the growth and management of non-traditional crops like Jamun, Dragonfruit, and Datepalm, exploring their adaptability to arid environments.
 
-  **High-Density Planting & Crop Systems:**
-Introduced and managed high-density planting trials, especially for Custard Apple, maximizing yield and optimizing space usage.
-Developed a ber-based cropping system, improving agricultural efficiency and sustainability in the region.
-
-  **Non-Plan Horticulture Projects & Innovation:**
-Conducted research on Jamun, Dragonfruit, Datepalm, and other nontraditional crops, focusing on growth patterns, propagation techniques, and crop management under arid conditions.
 
 

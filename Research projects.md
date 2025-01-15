@@ -6,12 +6,14 @@ AICRP on Cashew, ICAR-DCR, Puttur
 As a Project Leader, I led and executed critical research projects aimed at improving cashew cultivation practices, crop protection, and varietal development. My work primarily focused on enhancing productivity, sustainability, and pest management.
 
   **Crop Management & Innovation:**
-Implemented organic management techniques, optimized fertilizer use in high-density cashew plantations, and explored intercropping systems.
-Led successful trials on high-density planting, aiming to increase production while maintaining soil health.
+  
+1.Implemented organic management techniques, optimized fertilizer use in high-density cashew plantations, and explored intercropping systems.
+2.Led successful trials on high-density planting, aiming to increase production while maintaining soil health.
 
   **Research on Crop Improvement:**
-Managed germplasm collection, evaluation, and cataloguing, contributing significantly to the genetic diversity of cashew varieties.
-Conducted multi-location trials and hybridization programs, enhancing productivity and resilience in cashew crops.
+  
+1.Managed germplasm collection, evaluation, and cataloguing, contributing significantly to the genetic diversity of cashew varieties.
+2.Conducted multi-location trials and hybridization programs, enhancing productivity and resilience in cashew crops.
 
   **Pest Management & Protection:**(Project Associate)
 Pioneered insecticide efficacy trials and developed integrated pest management solutions for cashew.

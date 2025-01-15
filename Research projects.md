@@ -1,68 +1,38 @@
-**Scientist Horticulture** (**From September,2016 to Januay, 2019**)
+**Scientist Horticulture**
+Cashew Research Station, Bapatla
+**September 2016 – January 2019**
+AICRP on Cashew, ICAR-DCR, Puttur
 
-**Project leader** in Research projects/experiments as per approved technical programme of work
-at Cashew Research station, Bapatla under **AICRP on Cashew, ICAR-DCR,Puttur**.
+As a Project Leader, I led and executed critical research projects aimed at improving cashew cultivation practices, crop protection, and varietal development. My work primarily focused on enhancing productivity, sustainability, and pest management.
 
-**Crop Management**
-1. Organic Management in Cashew
-2. Fertilizer application in high density cashew plantations
-3. High Density Planting –Observational trial
-4. Intercropping in Cashew
-5. Varietal screening of cashew apple for preparation of RTS and JAM
-6. Rapid polyclonal hybrid evaluation trial
+**Crop Management & Innovation:**
+Implemented organic management techniques, optimized fertilizer use in high-density cashew plantations, and explored intercropping systems.
+Led successful trials on high-density planting, aiming to increase production while maintaining soil health.
 
- **Non plan Horticulture**
-1. Effect of different potting media along with biofertilizers on growth of seedlings of
-Cashew at CRS , Bapatla
-   
-**Project Associate**
+**Research on Crop Improvement:**
+Managed germplasm collection, evaluation, and cataloguing, contributing significantly to the genetic diversity of cashew varieties.
+Conducted multi-location trials and hybridization programs, enhancing productivity and resilience in cashew crops.
 
-**Crop Improvement**
-1. Germplasm collection, conservation, evaluation, characterization and cataloguing
-2. Multi-location trial-III (MLT-2002
-3. Multi-location trial-V (performance of released varieties
-4. Hybridization and selection
-5. characterization of germplasm for cashew apple
-7. Evaluation of CNSL free types for tender kernel purpose
-6. New breeding approach with five different high yielding hybrids.
-   
-**Non plan Horticulture**
-1. Introduction of Nontraditional fruit crops in Coastal humid area( Bread Fruit, Durian,
-Jack Fruit, Kokum, Mangosteen and Rambhutan)
-2. Evaluation of promising F 1 Hybrids of CRS , Bapatla
-   
-**Crop Protection**
-1. Evaluation of insecticides for the control of TMB and other insect pests
-2. Control of Cashew Stem and Root borer. Curative trial (Post extraction prophylaxis).
-3. Influence of biotic and abiotic factors on the incidence of pest complex of cashew
-4. Screening of germplasm to locate tolerant/ resistant types to major pests of the region
+**Pest Management & Protection:**(Project Associate)
+Pioneered insecticide efficacy trials and developed integrated pest management solutions for cashew.
+Led research on the control of cashew stem and root borers, using innovative curative treatments post-extraction.
 
-**Scientist Horticulture** (**From January,2019 to August, 2023**)
+**Scientist Horticulture**
+Horticulture Research Station, Anantapur
+**January 2019 – August 2023**
+AICRP on Arid Zone Fruits (AZF), ICAR-CIAH, Bikaner
 
-**Project leader** in Research projects/experiments as per approved technical programme of work
-at Horticulture Research station, Anantapur under **AICRP on Arid Zone FRuits (AZF), ICAR-CIAH,Bikaner**.
+In my leadership role, I directed projects focused on horticultural crops in arid zones, including Aonla, Ber, Pomegranate, and Custard Apple. My work aimed at improving crop yield, resilience, and sustainable agricultural practices in challenging climates.
 
-1. Germplasm evaluation and maintenance of Aonla.
-2. Germplasm evaluation and maintenance of Ber
-3. Germplasm evaluation and maintenance of Pomegranate.
-4. Germplasm evaluation and maintenance of Tamarind.
-5. Germplasm evaluation and maintenance of Tamarind
-6. Germplasm Repository, Evaluation and Improvement in Custard Apple.
-7. Varietal trial of Custard Apple..
-8. Varietal trial of Pomegranate.
-9. Varietal trial of Tamarind.
-10. Varietal trial of Aonla.
-11. Standardization of Pruning technology in Custard apple
-12. Evaluation of different propagules of pomegranate for their reaction to biotic/abiotic stress
-13. Multi-location testing of pomegranate sweet type hybrids for juice and table purpose
-14. Multi-location testing of pomegranate sour type hybrids for processing (Anardana)
-15. Development of ber based cropping system cv. Gola
-16. High density planting in custard apple Phule Janaki (F1) (New Experiment)
+**Germplasm Evaluation & Varietal Development:**
+Led the evaluation and maintenance of diverse germplasm collections for multiple fruits, supporting the development of high-yielding, resilient cultivars.
+Spearheaded varietal trials and pruning standardization, optimizing crop performance for various fruits, including Pomegranate and Custard Apple.
 
+**High-Density Planting & Crop Systems:**
+Introduced and managed high-density planting trials, especially for Custard Apple, maximizing yield and optimizing space usage.
+Developed a ber-based cropping system, improving agricultural efficiency and sustainability in the region.
 
-**Non Plan HORTICULTURE** 
-1. Studies on effect of planting density and Canopy management on growth, yield and quality of Jamun cv. Konkan Bahadoli
-2. Studies on growth and development of two different cultivars of Dragonfruit (Hylocerous sp.) – Observation trial
-3. Varietal evaluation of Datepalm (Phoenix dactylifera L.)
-4. Effect of Pruning on yield and yield contributing characters in Jamun cv.Konkan Bahadoli (Onfarm trial)
+**Non-Plan Horticulture Projects & Innovation:**
+Conducted research on Jamun, Dragonfruit, Datepalm, and other nontraditional crops, focusing on growth patterns, propagation techniques, and crop management under arid conditions.
+
 

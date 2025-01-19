@@ -21,9 +21,10 @@ layout: "page"
 
 # 🌱  Horticulture Videos  
 
-A curated list of my research-based videos on agriculture, horticulture, and sustainable farming practices.  
+A curated list of my research-based videos on agriculture, horticulture, and sustainable farming practices. 
 
-1. [**వద్దంటే నీరు...రైతు కంట కన్నీరు | Prime9 News**](https://youtu.be/eoOOz6zM7s)  
+
+1. [**వద్దంటే నీరు...రైతు కంట కన్నీరు | Prime9 News**[Link to Vedio](https://youtu.be/eoOOz6zM7s)) 
 2. [**పసిడి పంటలు - జీడి మామిడిలో ఎరువుల కత్తిరింపులు | DDSAPTAGIRI**](https://youtu.be/AYFZbMB2LjM)  
 3. [**Dragon Fruit Cultivation | ETV Annadata**](https://youtu.be/jVoy-38OR4c)  
 4. [**జీవకంచెగా కరోండా మొక్కల పెంపకం | ETV Annadata**](https://youtu.be/inyFlrOBs_s)  

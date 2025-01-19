@@ -23,23 +23,23 @@ layout: "page"
 
 A curated list of my research-based videos on agriculture, horticulture, and sustainable farming practices.  
 
-వద్దంటే నీరు...రైతు కంట కన్నీరు | Prime9 News
-పసిడి పంటలు - జీడి మామిడిలో ఎరువుల కత్తిరింపులు | DDSAPTAGIRI
-Dragon Fruit Cultivation | ETV Annadata
-జీవకంచెగా కరోండా మొక్కల పెంపకం | ETV Annadata
-సులభంగా చింత సాగు - వంద సంవత్సరాల దిగుబడి
-మామిడికి తేనె మంచు పురుగు నివారణ
-పుంగనూరు చింత రకం | PU-15 Tamarind
-ఖర్జురం సాగు రకాలపై అధ్యయనాలు
-డ్రాగన్ పంటకు వేసవిలో కుళ్ళు తెగులు
-ఖర్జురం సాగులో పాలినేషన్ కీలకం
-అల్లనేరేడులో సస్య రక్షణ
-పోషకాల అనంత ఫలం సీతాఫలం | Custard Apple Farming
-చింత సాగు నిశ్చింత లాభం | Rudhira Tamarind Farming
-వేరుకుళ్ళు తెగులుతో ఎండుతున్న చినీ తోటలు
-డ్రాగన్ పంటకు వేసవిలో కుళ్ళు తెగులు | Dr. Vimal's Suggestions
-డ్రాగన్ ఫ్రూట్ సాగులో ముఖ్యమైన సూచనలు
-Soil Testing | భూసార పరీక్ష
-ఎర్ర చింతపైఎంత మోజో..! | Red Tamarind Plants
-Training For Agri Dealers | అగ్రి డీలర్లకు ఏడాదిపాటు శిక్షణ
-ఉసిరి పండిస్తే లాభాలే లాభాలు | Raithu Bandhu
+1. [**వద్దంటే నీరు...రైతు కంట కన్నీరు | Prime9 News**](https://youtu.be/eoOOz6zM7s)  
+2. [**పసిడి పంటలు - జీడి మామిడిలో ఎరువుల కత్తిరింపులు | DDSAPTAGIRI**](https://youtu.be/AYFZbMB2LjM)  
+3. [**Dragon Fruit Cultivation | ETV Annadata**](https://youtu.be/jVoy-38OR4c)  
+4. [**జీవకంచెగా కరోండా మొక్కల పెంపకం | ETV Annadata**](https://youtu.be/inyFlrOBs_s)  
+5. [**సులభంగా చింత సాగు - వంద సంవత్సరాల దిగుబడి**](https://youtu.be/5BM0281rMDc)  
+6. [**మామిడికి తేనె మంచు పురుగు నివారణ**](https://youtu.be/5BM0281rMDc)  
+7. [**పుంగనూరు చింత రకం | PU-15 Tamarind**](https://youtu.be/bdNqlD98Kwg)  
+8. [**ఖర్జురం సాగు రకాలపై అధ్యయనాలు**](https://youtu.be/jDVkOvbuiSg)  
+9. [**డ్రాగన్ పంటకు వేసవిలో కుళ్ళు తెగులు**](https://youtu.be/wRIYjnXMsbA)  
+10. [**ఖర్జురం సాగులో పాలినేషన్ కీలకం**](https://youtu.be/llzaYW4kcAM)  
+11. [**అల్లనేరేడులో సస్య రక్షణ**](https://youtu.be/HYLXuNztHsc)  
+12. [**పోషకాల అనంత ఫలం సీతాఫలం | Custard Apple Farming**](https://youtu.be/5QzbFaaQ6t0)  
+13. [**చింత సాగు నిశ్చింత లాభం | Rudhira Tamarind Farming**](https://youtu.be/MxIJfQVXWGM)  
+14. [**వేరుకుళ్ళు తెగులుతో ఎండుతున్న చినీ తోటలు**](https://youtu.be/XqsxXTU3u-0)  
+15. [**డ్రాగన్ పంటకు వేసవిలో కుళ్ళు తెగులు | Dr. Vimal's Suggestions**](https://youtu.be/Wy4WMb7yTPk)  
+16. [**డ్రాగన్ ఫ్రూట్ సాగులో ముఖ్యమైన సూచనలు**](https://youtu.be/Z_Hp7PDzy5U)  
+17. [**Soil Testing | భూసార పరీక్ష**](https://youtu.be/WgQRd_USPUM)  
+18. [**ఎర్ర చింతపైఎంత మోజో..! | Red Tamarind Plants**](https://youtu.be/CsXcUfTMPz0)  
+19. [**Training For Agri Dealers | అగ్రి డీలర్లకు ఏడాదిపాటు శిక్షణ**](https://youtu.be/etO6S_qbjkc)  
+20. [**ఉసిరి పండిస్తే లాభాలే లాభాలు | Raithu Bandhu**](https://youtu.be/B6rnl-We_Ds)

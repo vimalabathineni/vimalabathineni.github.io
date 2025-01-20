@@ -23,23 +23,6 @@ layout: "page"
 
 A collection of impactful vedios aimed at educating farmers, promoting sustainable Horticultural practices
 
-## 2022
-
-1. [**Prime9 News** - **Water Crisis, Farmer's Tears - వద్దంటే నీరు...రైతు కంట కన్నీరు**](https://youtu.be/eoOOz6zM7s)
-2. [**DDSAPTAGIRI** - **Golden Crops - Gidi Mango Fertilization Methods - పసిడి పంటలు - జీడి మామిడిలో ఎరువుల కత్తిరింపులు**](https://youtu.be/AYFZbMB2LjM)
-3. [**ETV Annadata** - **Dragon Fruit Cultivation - డ్రాగన్ ఫ్రూట్ సాగు**](https://youtu.be/jVoy-38OR4c)
-4. [**ETV Annadata** - **Karonda Plant as Fence - జీవకంచెగా కరోండా మొక్కల పెంపకం**](https://youtu.be/inyFlrOBs_s)
-
-### 2023
-
-5. [**Easy Tamarind Cultivation - 100 years of Yield - సులభంగా చింత సాగు - వంద సంవత్సరాల దిగుబడి**](https://youtu.be/5BM0281rMDc)
-6. [**Mango Tree Pest Control - మామిడికి తేనె మంచు పురుగు నివారణ**](https://youtu.be/5BM0281rMDc)
-7. [**PU-15 Tamarind - Punganuru Tamarind Variety - పుంగనూరు చింత రకం**](https://youtu.be/bdNqlD98Kwg)
-8. [**Studies on Date Palm Varieties - ఖర్జురం సాగు రకాలపై అధ్యయనాలు**](https://youtu.be/jDVkOvbuiSg)
-9. [**Summer Issues in Dragon Fruit Cultivation - డ్రాగన్ పంటకు వేసవిలో కుళ్ళు తెగులు**](https://youtu.be/wRIYjnXMsbA)
-10. [**Pollination in Date Palm - ఖర్జురం సాగులో పాలినేషన్ కీలకం**](https://youtu.be/llzaYW4kcAM)
-11. [**Weed Control in Agricultural Fields - అల్లనేరేడులో సస్య రక్షణ**](https://youtu.be/HYLXuNztHsc)
-
 ### 2024
 
 12. [**Custard Apple Farming - పోషకాల అనంత ఫలం సీతాఫలం**](https://youtu.be/5QzbFaaQ6t0)
@@ -51,3 +34,23 @@ A collection of impactful vedios aimed at educating farmers, promoting sustainab
 18. [**Red Tamarind Plant Cultivation - Red Tamarind Plants - ఎర్ర చింతపైఎంత మోజో..!**](https://youtu.be/CsXcUfTMPz0)
 19. [**Training for Agri Dealers - అగ్రి డీలర్లకు ఏడాదిపాటు శిక్షణ**](https://youtu.be/etO6S_qbjkc)
 20. [**Raithu Bandhu - Usiri Fruit Farming Benefits - ఉసిరి పండిస్తే లాభాలే లాభాలు**](https://youtu.be/B6rnl-We_Ds)
+
+### 2023
+
+5. [**Easy Tamarind Cultivation - 100 years of Yield - సులభంగా చింత సాగు - వంద సంవత్సరాల దిగుబడి**](https://youtu.be/5BM0281rMDc)
+6. [**Mango Tree Pest Control - మామిడికి తేనె మంచు పురుగు నివారణ**](https://youtu.be/5BM0281rMDc)
+7. [**PU-15 Tamarind - Punganuru Tamarind Variety - పుంగనూరు చింత రకం**](https://youtu.be/bdNqlD98Kwg)
+8. [**Studies on Date Palm Varieties - ఖర్జురం సాగు రకాలపై అధ్యయనాలు**](https://youtu.be/jDVkOvbuiSg)
+9. [**Summer Issues in Dragon Fruit Cultivation - డ్రాగన్ పంటకు వేసవిలో కుళ్ళు తెగులు**](https://youtu.be/wRIYjnXMsbA)
+10. [**Pollination in Date Palm - ఖర్జురం సాగులో పాలినేషన్ కీలకం**](https://youtu.be/llzaYW4kcAM)
+11. [**Weed Control in Agricultural Fields - అల్లనేరేడులో సస్య రక్షణ**](https://youtu.be/HYLXuNztHsc)
+
+## 2022
+
+1. [**Prime9 News** - **Water Crisis, Farmer's Tears - వద్దంటే నీరు...రైతు కంట కన్నీరు**](https://youtu.be/eoOOz6zM7s)
+2. [**DDSAPTAGIRI** - **Golden Crops - Gidi Mango Fertilization Methods - పసిడి పంటలు - జీడి మామిడిలో ఎరువుల కత్తిరింపులు**](https://youtu.be/AYFZbMB2LjM)
+3. [**ETV Annadata** - **Dragon Fruit Cultivation - డ్రాగన్ ఫ్రూట్ సాగు**](https://youtu.be/jVoy-38OR4c)
+4. [**ETV Annadata** - **Karonda Plant as Fence - జీవకంచెగా కరోండా మొక్కల పెంపకం**](https://youtu.be/inyFlrOBs_s)
+
+
+
